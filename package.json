@@ -1,0 +1,20 @@
+{
+  "name": "backendserver",
+  "version": "1.0.0",
+  "description": "chetanmay1210c",
+  "keywords": [
+    "Chetan",
+    "Chetanmay1210c"
+  ],
+  "license": "ISC",
+  "author": "chetan",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
